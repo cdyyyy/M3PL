@@ -1,4 +1,4 @@
-# M3PL: Identifying and Exploiting View Bias for Prompt Learning [TMLR 2024]
+# M3PL: Identifying and Exploiting View Bias of Prompt Learning [TMLR 2024]
 
 Official implementation of the paper "[M3PL: Identifying and Exploiting View Bias of Prompt Learning](https://openreview.net/forum?id=2rnTIBm19V)"
 
@@ -6,7 +6,7 @@ Official implementation of the paper "[M3PL: Identifying and Exploiting View Bia
 For installation and other package requirements, please follow the instructions detailed in [INSTALL.md](docs/INSTALL.md). 
 
 ## Data preparation
-Please follow the instructions at [DATASETS.md](docs/DATASETS.md) to prepare all datasets.
+Please follow the instructions in [DATASETS.md](docs/DATASETS.md) to prepare all datasets.
 
 
 ## Training and Evaluation
