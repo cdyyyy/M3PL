@@ -20,13 +20,15 @@ For Base-to-New generalization please use base2new_train.sh and base2new_test.sh
 
 ## Citation
 ```bibtex
-@article{zhao2024m3pl,
-    title={M\${\textasciicircum}3\${PL}: Identifying and Exploiting View Bias of Prompt Learning},
-    author={Zhao, Chujie and Zhang, Tianren and Chen, Guanyu and Jiang, Yizhou and Chen, Feng},
-    journal={Transactions on Machine Learning Research},
-    year={2024},
-    url={https://openreview.net/forum?id=2rnTIBm19V},
-    note={}
+@article{
+zhao2024mpl,
+title={M\${\textasciicircum}3\${PL}: Identifying and Exploiting View Bias of Prompt Learning},
+author={Chujie Zhao and Tianren Zhang and Guanyu Chen and Yizhou Jiang and Feng Chen},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2024},
+url={https://openreview.net/forum?id=2rnTIBm19V},
+note={}
 }
 ```
 
